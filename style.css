@@ -1,0 +1,11 @@
+/* ==========================================================
+   My section's styles
+   Every page in this section uses this one file.
+
+   Pages in this main folder link to it with:
+       <link rel="stylesheet" href="style.css">
+   Pages inside warm-ups, classwork, and projects use ../ to go up a folder:
+       <link rel="stylesheet" href="../style.css">
+
+   We'll write styles here starting Monday.
+   ========================================================== */
