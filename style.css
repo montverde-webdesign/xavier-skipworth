@@ -9,3 +9,32 @@
 
    We'll write styles here starting Monday.
    ========================================================== */
+body { 
+    margin: 0;
+    padding: 1px;
+    font-family: times new roman, times, serif;
+    background-color: #ec7bd4;
+    color:rgb(0, 241, 20);
+    line-height: 1.5;
+    min-height: 100vh;
+    font-size: 1.7rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    color: #ec7bd4;
+    margin: 15px
+}
+h2 {
+    color: #ec7bd4;
+    margin: 20px
+}
+a:hover{
+    color:white; }
+a:visited
+ {color: white;}
+a:active{
+    color: white;}
